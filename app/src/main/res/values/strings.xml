@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Discover Movies</string>
+    <string name="movie_poster_desc_text">Movie poster image</string>
+    <string name="vote_10_text"> /10</string>
+    <string name="cb_text_favorite_movie">Save as Favorite</string>
+    <string name="favorites_menu_text">Favorite Movies</string>
+    <string name="top_rated_menu_text">Top Rated Movies</string>
+    <string name="popular_menu_text">Popular Movies</string>
+    <string name="cd_star_rating_icon">Star Rating Icon</string>
+    <string name="btn_share_movie">Share Movie</string>
+    <string name="videos_header_text">Videos:</string>
+    <string name="reviews_header_text">Reviews:</string>
+    <string name="read_more_text">Read More…</string>
+    <string name="no_videos_in_list">No Videos found.</string>
+    <string name="no_reviews_in_list">No Reviews found.</string>
+    <string name="popular_actionbar_title">Popular Movies</string>
+    <string name="top_rated_actionbar_title">Top Rated Movies</string>
+    <string name="favorites_actionbar_title">Favorite Movies</string>
+    <string name="play_video_icon_desc_text">Play video icon</string>
+
+
+    <string name="share_movie_intent_text">
+        Hey!
+        \n
+        \n
+        Check out this cool movie I discovered!
+        \n
+        \n
+        %1$s
+    </string>
+
+
+</resources>
